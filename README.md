@@ -3,7 +3,7 @@
 This is a web based project that helps in blood donation management system securely and efficiently.
 
 ## Demo
-#### Here is a working live demo :  https://dhananjay-777.github.io/blood_donation_management_system/
+#### Here is a working live demo :  https://rankit2001.github.io/Blood-donation-management-system/
 
 ## Built with 
 
