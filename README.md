@@ -1,4 +1,4 @@
-# Blood_donation_management_system
+# OneBlood
 
 This is a web based project that helps in blood donation management system securely and efficiently.
 
